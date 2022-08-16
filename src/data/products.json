@@ -37,8 +37,8 @@
       "title": "Pecan Flavored Coffee, one of the bests",
       "description": "This coffee make's everything good. And bring the best experience with coffee flavour.",
       "price": "$11.50",
-      "category": "Pecan Flavored Coffee",
-      "images": "/menuImages/PecanFLavored.jpg"
+      "category": "Pecan Flavored",
+      "images": "/menuImages/PecanFlavored.jpg"
     },
     {
       "id": 6,
