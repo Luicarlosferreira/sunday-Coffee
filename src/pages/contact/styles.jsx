@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const ContainerContact = styled.section`
   .imageContainerContact {
     height: 100vh;
-    background-image: url("public/images/opened-craft-paper-envelope-autumn-leaves-coffee-wooden-table.jpg");
+    background-image: url("/images/opened-craft-paper-envelope-autumn-leaves-coffee-wooden-table.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: 50% 50%;

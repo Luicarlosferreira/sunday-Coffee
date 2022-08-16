@@ -33,7 +33,7 @@ export const Home = () => {
             </p>
           </Slide>
           <Fade duration={2000} triggerOnce={true}>
-            <img src="public/images/coffee.png" alt="coffee image" />
+            <img src="/images/coffee.png" alt="coffee image" />
           </Fade>
         </div>
       </Fade>
@@ -54,7 +54,7 @@ export const Home = () => {
             </NavLink>
           </div>
           <div className="image_template">
-            <img src="public/images/sundayCoffee.png" alt="Sunday Coffee" />
+            <img src="/images/sundayCoffee.png" alt="Sunday Coffee" />
           </div>
         </Fade>
       </div>
@@ -69,37 +69,37 @@ export const Home = () => {
             <ActionAreaCard
               title="My best day"
               text="This is my best shot about my coup of SUNDAY COFFEE."
-              image="public/shareImages/1.jpg"
+              image="/shareImages/1.jpg"
               alt="Coffe image pic day"
             />
             <ActionAreaCard
               title="Sunday Coffee is my love ♥"
               text="Today the day started well with the best coffee in the world. Thanks, Sunday coffee."
-              image="public/shareImages/2.jpg"
+              image="/shareImages/2.jpg"
               alt="Coffe image pic day"
             />
             <ActionAreaCard
               title="I wish coffee"
               text="Thank you for providing the best coffee ever. Love you!"
-              image="public/shareImages/3.jpg"
+              image="/shareImages/3.jpg"
               alt="Coffe image pic day"
             />
             <ActionAreaCard
               title="Wake up and Sunday Coffee"
               text="Drinking sunday coffee is like being in paradise. I love it ♥"
-              image="public/shareImages/4.jpg"
+              image="/shareImages/4.jpg"
               alt="Coffe image pic day"
             />
             <ActionAreaCard
               title="Best Regards"
               text="Thank you for gifting me with the best coffee, which brings out the best taste."
-              image="public/shareImages/5.jpg"
+              image="/shareImages/5.jpg"
               alt="Coffe image pic day"
             />
             <ActionAreaCard
               title="Sunday coffee is every day."
               text="I wake up and already drink my sunday coffee to improve my day."
-              image="public/shareImages/6.jpg"
+              image="/shareImages/6.jpg"
               alt="Coffe image pic day"
             />
           </Fade>

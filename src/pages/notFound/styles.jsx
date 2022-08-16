@@ -10,7 +10,7 @@ export const NotFoundContainer = styled.section`
   gap: 5em;
 
   .imageBadWay {
-    background-image: url("public/images/coffee.png");
+    background-image: url("/images/coffee.png");
     background-size: cover;
     background-position: 100%;
     border-radius: 50%;

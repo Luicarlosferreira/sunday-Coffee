@@ -5,7 +5,7 @@ export const HomeContainer = styled.section`
   color: white;
 
   .Container_one {
-    background-image: url("public/images/containerImageOne.jpg");
+    background-image: url("/images/containerImageOne.jpg");
     background-size: cover;
     background-position: 50% 30%;
     background-repeat: no-repeat;
@@ -116,7 +116,7 @@ export const HomeContainer = styled.section`
     color: white;
   }
   .image_template {
-    background-image: url("public/images/templateCoffee.jpg");
+    background-image: url("/images/templateCoffee.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     border-radius: 15px;
@@ -237,7 +237,7 @@ export const HomeContainer = styled.section`
       color: white;
     }
     .image_template {
-      background-image: url("public/images/templateCoffee.jpg");
+      background-image: url("/images/templateCoffee.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       border-radius: 15px;
@@ -285,7 +285,7 @@ export const HomeContainer = styled.section`
 
   @media (max-width: 710px) {
     .Container_one {
-      background-image: url("public/images/containerImageOne.jpg");
+      background-image: url("/images/containerImageOne.jpg");
       background-size: cover;
       background-position: 95%;
       background-repeat: no-repeat;
@@ -355,7 +355,7 @@ export const HomeContainer = styled.section`
     }
 
     .image_template {
-      background-image: url("public/images/templateCoffee.jpg");
+      background-image: url("/images/templateCoffee.jpg");
       background-size: cover;
       background-repeat: no-repeat;
       border-radius: 15px;
@@ -402,7 +402,7 @@ export const HomeContainer = styled.section`
 
   @media (max-width: 415px) {
     .Container_one {
-      background-image: url("public/images/containerImageOne.jpg");
+      background-image: url("/images/containerImageOne.jpg");
       background-size: cover;
       background-position: 89%;
       background-repeat: no-repeat;
