@@ -6,7 +6,7 @@ export const Footer = () => {
   return (
     <FooterContainer>
       <div className="LogoContainer">
-        <img src="public/icons/logoIcon.png" alt="Logo coffee store" />
+        <img src="/icons/logoIcon.png" alt="Logo coffee store" />
         <h2>SundayCoffee</h2>
       </div>
       <div className="ListFooterContainer">
