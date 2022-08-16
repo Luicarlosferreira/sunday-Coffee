@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Salted Caramel Sunday Coffee",
+      "description": "Salted caramel and rich mocha flavors come together in this delicately crafted fall coffee.",
+      "price": "$12.00",
+      "category": "Caramel Coffee",
+      "images": "public/menuImages/caramelCoffee.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Caffè Verona, Italy lovers and passionate",
+      "description": "The best Taste in Italy. Could you please taste this lovely flavour? Our coffee is the best in the world.",
+      "price": "$8.00",
+      "category": "Black Italy Coffee",
+      "images": "public/menuImages/Verona.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Black Gold Roasters, the best in the world",
+      "description": "Expresso Gold Coffee Roasters are the ideal coffee beans for creating a golden Espresso. ",
+      "price": "$10.00",
+      "category": "Black Coffee Roasters",
+      "images": "public/menuImages/blackTaste.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Blend Fall, The flavour in the heaven",
+      "description": "Combining some of the finest coffees from all three growing regions and this returns all love.",
+      "price": "$13.00",
+      "category": "Blend Coffee Flavour",
+      "images": "public/menuImages/BlendFall.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Pecan Flavored Coffee, one of the bests",
+      "description": "This coffee make's everything good. And bring the best experience with coffee flavour.",
+      "price": "$11.50",
+      "category": "Pecan Flavored Coffee",
+      "images": "public/menuImages/PecanFLavored.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Caramel Intense Sunday Morning",
+      "description": "The best coffee that we have. Is the Most aromatic and delicious coffee in the World.",
+      "price": "$13.00",
+      "category": "Caramel Coffee",
+      "images": "public/menuImages/Coffee.jpg"
+    }
+  ]
+}
